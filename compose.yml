@@ -8,4 +8,4 @@ services:
       - ${MODS}:/home/steam/left4dead2/left4dead2/addons
       - ${CONF}:/home/steam/left4dead2/left4dead2/cfg/server.cfg
     restart: unless-stopped
-    command: "/home/steam/left4dead2/srcds_run -console -game left4dead2 +port 27005 +maxplayers 8 +exec server.cfg +map electric_Power_School_m1 -nomaster"
+    command: "/home/steam/left4dead2/srcds_run -console -game left4dead2 +port 27005 +maxplayers 8 +exec server.cfg +map ${MAP} -nomaster"
