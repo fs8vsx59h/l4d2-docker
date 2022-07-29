@@ -1,11 +1,14 @@
 Buried Deep：
-PENDING:   (fs) bdp_bunker01.bsp
+bdp_bunker01
 
 Nan Ning:
-PENDING:   (fs) electric_power_school_m1.bsp
+electric_power_school_m1
 
 The Evil Within:
-PENDING:   (fs) w4e1_basement.bsp
+w4e1_basement
 
 Zeng Cheng:
-PENDING:   (fs) zc_m1.bsp
+zc_m1
+
+BLACK MESA: FALLOUTS:
+c5a1
