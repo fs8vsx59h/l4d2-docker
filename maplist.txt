@@ -12,3 +12,6 @@ zc_m1
 
 BLACK MESA: FALLOUTS:
 c5a1
+
+Chernobyl:
+ch01_jupiter
